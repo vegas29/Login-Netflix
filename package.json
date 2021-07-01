@@ -1,0 +1,32 @@
+{
+  "name": "login-netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegas29/Login-Netflix.git"
+  },
+  "keywords": [
+    "SCSS",
+    "-",
+    "HTML5",
+    "-",
+    "JS"
+  ],
+  "author": "Alejandro Perdomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vegas29/Login-Netflix/issues"
+  },
+  "homepage": "https://github.com/vegas29/Login-Netflix#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.1"
+  }
+}
